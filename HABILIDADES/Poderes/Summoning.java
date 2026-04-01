@@ -1,3 +1,4 @@
+package Poderes;
 public class Summoning {
 
     public void conjurarEncarnado() {

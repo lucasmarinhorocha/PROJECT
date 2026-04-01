@@ -1,3 +1,4 @@
+package Poderes;
 public class Special {
 
     public void domoDeProtecao() {

@@ -1,3 +1,4 @@
+package Poderes;
 public class Sourcery {
 
     public void abencoar() {

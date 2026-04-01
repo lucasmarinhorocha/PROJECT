@@ -1,3 +1,4 @@
+package Poderes;
 public class Necromancer {
 
     public void sugadorDeSangue() {

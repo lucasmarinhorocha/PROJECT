@@ -1,3 +1,4 @@
+package Poderes;
 public class Aerotheurge {
 
     public String ventoFavoravel() {

@@ -1,3 +1,4 @@
+package Poderes;
 public class Geomancer {
 
     public void contaminacao() {

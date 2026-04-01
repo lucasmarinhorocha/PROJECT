@@ -1,3 +1,4 @@
+package Poderes;
 public class Scoundrel {
 
     public void adrenalina() {

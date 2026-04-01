@@ -1,3 +1,4 @@
+package Poderes;
 public class Hydrosophist {
 
     public void armaduraDeGelo() {

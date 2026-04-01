@@ -33,36 +33,7 @@ public class Ficha {
             };
 
             
-            class Pericia {
-    private String tipo;   // Ex: "Espada"
-    private int treino; // Ex: "Avançado"
-    private int bonus;     // Ex: +5
-
-// criar um construtor para a classe Pericia
-    public Pericia(String tipo, int treino, int bonus) {
-        this.tipo = tipo;
-        this.treino = treino;
-        this.bonus = bonus;
-    }
-
-    public String getTipo() { return tipo; }
-    public int getTreino() { return treino; }
-    public int getBonus() { return bonus; }
-}
-
-            Map<String, Pericia> pericias = new HashMap<>();
-
-            pericias.put("Luta", new Pericia("Força", 0, 0));
-            pericias.put("Pontaria", new Pericia("Reflexo", 0, 0));
-            pericias.put("Adestramento", new Pericia("Carisma", 0, 0));
-
-            /* 
-            pericias.values().forEach(pericia -> {
-                System.out.println("Perícia: " + pericia.getTipo() + ", Treino: " + pericia.getTreino() + ", Bônus: " + pericia.getBonus());
-            });
-            */
-           
-
+   
 
 
             passiva.Engenhoso();

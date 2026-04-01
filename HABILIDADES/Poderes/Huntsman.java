@@ -1,3 +1,4 @@
+package Poderes;
 public class Huntsman {
 
     public void pontasDeFletchaElementais() {
